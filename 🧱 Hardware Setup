@@ -1,0 +1,33 @@
+
+SO101 Leader Arm (Human Control)
+SO101 Follower Arm (Execution)
+Feetech Servo Motors
+USB Camera (Top View)
+Containers (Cup/Bottle)
+🔁 Workflow
+1️⃣ Motor Configuration
+
+Assign motor IDs for all joints.
+
+2️⃣ Calibration
+
+Calibrate both leader and follower arms for accurate motion mapping.
+
+3️⃣ Teleoperation
+
+Control follower arm using leader arm to demonstrate pouring motion.
+
+4️⃣ Data Recording
+
+Record:
+
+Joint positions
+Actions
+Camera frames
+5️⃣ Model Training
+
+Train a model using recorded demonstrations.
+
+6️⃣ Inference (Autonomous Mode)
+
+Robot performs water pouring without human control.
